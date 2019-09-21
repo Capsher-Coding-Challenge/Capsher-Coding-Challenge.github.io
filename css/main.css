@@ -304,10 +304,6 @@ header.masthead .intro-text .intro-heading {
   margin-bottom: 15px;
 }
 
-.prize-modal .modal-content p {
-  margin-bottom: 30px;
-}
-
 .prize-modal .modal-content p.item-intro {
   font-size: 16px;
   font-style: italic;
@@ -497,7 +493,7 @@ header.masthead .intro-text .intro-heading {
 
   .timeline > li {
     min-height: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
   .timeline > li .timeline-panel {
     float: left;
